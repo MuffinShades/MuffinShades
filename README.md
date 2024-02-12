@@ -8,7 +8,7 @@
 - 📫 How to reach me ...
 -     Instagram: @muffinshades
 -     Twitter: @muffinshades
--     Discord: @secretstone7
+-     Discord: @muffinshades
 
 <!---
 MuffinShades/MuffinShades is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
