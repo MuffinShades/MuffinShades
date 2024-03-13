@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @MuffinShades
-- 👀 I’m interested in ...
-      Coding and Game development.
-- 🌱 I’m currently learning ...
--     C++
-- 💞️ I’m looking to collaborate on ...
--     Video Games
-- 📫 How to reach me ...
+- 👋 Hi, I’m muffinshades
+- 👀 I’m interested in computer science and electrical engineering
+- 🌱 I’m currently learning / improving on le C/C++ skills
+- 💞️ I’m looking to collaborate on Video Games
+- 📫 How to reach me:
 -     Instagram: @muffinshades
 -     Twitter: @muffinshades
 -     Discord: @muffinshades
